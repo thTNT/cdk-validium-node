@@ -1,4 +1,4 @@
-# Polygon CDK Validium Node
+# TNT CDK Validium Node
 
 For a full overview of the CDK-Validium please reference the [CDK documentation](https://wiki.polygon.technology/docs/cdk/).
 
